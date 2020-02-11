@@ -15,5 +15,12 @@ strong {
 }
 
 a {
+    text-decoration: none;
     color: brown;
+}
+
+.Drop-cap {
+    color: #903; 
+    font-family: Georgia;
+    initial-letter: 2;
 }
